@@ -3,7 +3,7 @@
 Plugin Name: Facebook, Google+ & Twitter Share
 Plugin URI: 
 Description: Facebook, Google+ and Twitter share. Easy to use, just install and activate. No database table will be create. No javascript or js file required.
-Version: 1.00
+Version: 1.1
 Author: Ranveer
 Author URI: http://www.ranveer.info
 */
@@ -24,7 +24,6 @@ function fgt_share_add_hook($content) {
 	<a title="'.$title.'" rel="nofollow" target="_blank" href="https://plus.google.com/share?url='.$permalink.'"><img width="60" height="20" alt="google plus" src="'.$imagepath.'googleplus.png"></a>
 	<a title="'.$title.'" Nagar" rel="nofollow" target="_blank" href="http://twitter.com/home?status='.$title.' '.$permalink.'"><img width="70" height="20" alt="twitter" src="'.$imagepath.'twitter.png"></a>
 	</div>';
-	//$content .= plugin_basename();
     return $content;
 }
 
