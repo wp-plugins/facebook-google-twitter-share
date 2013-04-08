@@ -18,7 +18,7 @@ function fgt_share_style() {
 function fgt_share_add_hook($content) {
 	$permalink = get_permalink($post->ID);
 	$title 	   = get_the_title($ID);
-	$imagepath = plugins_url().'/facebook-googleplus-twitter-share/images/';
+	$imagepath = plugins_url().'/facebook-google-twitter-share/images/';
 	$content .= '<div class="sharelinks" style=""><span class="text">share on</span> 
 	<a title="'.$title.'" rel="nofollow" target="_blank" href="http://www.facebook.com/sharer.php?u='.$permalink.'"><img width="56" height="20" alt="facebook" src="'.$imagepath.'facebook.png"></a>
 	<a title="'.$title.'" rel="nofollow" target="_blank" href="https://plus.google.com/share?url='.$permalink.'"><img width="60" height="20" alt="google plus" src="'.$imagepath.'googleplus.png"></a>
