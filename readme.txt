@@ -3,7 +3,7 @@ Contributors: rranveer4
 Donate link: 
 Tags: Facebook, Google Plus, Twitter Share
 Requires at least: 2.5
-Tested up to: 3.5.1
+Tested up to: 4.1.1
 Stable tag: Facebook, Google Plus, Twitter Share
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -14,7 +14,7 @@ Facebook, Google+ and Twitter share. Easy to use, just install and activate. No 
 
 Facebook, Google+ and Twitter share. Easy to use, just install and activate. No database table will be create. No javascript or js file required.
 
-Check live demo at http://smsbyheart.com , http://smsfun.in
+Check live demo at http://newsms4u.com
 
 == Installation ==
 
@@ -23,8 +23,7 @@ Check live demo at http://smsbyheart.com , http://smsfun.in
 
 == Screenshots ==
 
-1. [Screenshot 1](http://smsbyheart.com)
-2. [Screenshot 2](http://smsfun.in)
+1. [Screenshot 1](http://newsms4u.com)
 
 == Changelog ==
 

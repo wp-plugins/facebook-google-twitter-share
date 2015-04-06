@@ -3,7 +3,7 @@
 Plugin Name: Facebook, Google+ & Twitter Share
 Plugin URI: 
 Description: Facebook, Google+ and Twitter share. Easy to use, just install and activate. No database table will be create. No javascript or js file required.
-Version: 1.3
+Version: 1.4
 Author: Ranveer
 Author URI: http://www.ranveer.info
 */
